@@ -1,0 +1,43 @@
+[
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Intuit®: Complete Financial Confidence",
+            "pageurl": "https://intuit.com",
+            "time": 5.83,
+            "creditsremaining": 0,
+            "allitemcount": 389,
+            "totalelements": 1982,
+            "waveurl": "http://wave.webaim.org/report?url=https://intuit.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 8
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 23
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 57
+            },
+            "feature": {
+                "description": "Features",
+                "count": 35
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 64
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 202
+            }
+        }
+    }
+]

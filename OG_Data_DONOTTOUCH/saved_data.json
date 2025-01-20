@@ -1,0 +1,93 @@
+[
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Google",
+            "pageurl": "https://google.com",
+            "time": 3.32,
+            "creditsremaining": 99,
+            "allitemcount": 143,
+            "totalelements": 382,
+            "waveurl": "http://wave.webaim.org/report?url=https://google.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 1
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 0
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 1
+            },
+            "feature": {
+                "description": "Features",
+                "count": 12
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 5
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 124
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Microsoft ﷿ AI, Cloud, Productivity, Computing, Gaming & Apps",
+            "pageurl": "https://microsoft.com",
+            "time": 7.13,
+            "creditsremaining": 98,
+            "allitemcount": 352,
+            "totalelements": 1062,
+            "waveurl": "http://wave.webaim.org/report?url=https://microsoft.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 2
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 2
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 10
+            },
+            "feature": {
+                "description": "Features",
+                "count": 36
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 59
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 243
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": ""
+        }
+    }
+]

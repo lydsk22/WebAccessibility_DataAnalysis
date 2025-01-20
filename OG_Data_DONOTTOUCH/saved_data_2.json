@@ -1,0 +1,940 @@
+[
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "腾讯网",
+            "pageurl": "https://qq.com",
+            "time": 8.85,
+            "creditsremaining": 27,
+            "allitemcount": 418,
+            "totalelements": 2174,
+            "waveurl": "http://wave.webaim.org/report?url=https://qq.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 113
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 181
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 90
+            },
+            "feature": {
+                "description": "Features",
+                "count": 2
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 6
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 26
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Gandi.net - Gandi.net: Domain Names, Web Hosting, SSL Certificates and Emails",
+            "pageurl": "https://gandi.net",
+            "time": 3.12,
+            "creditsremaining": 26,
+            "allitemcount": 268,
+            "totalelements": 1343,
+            "waveurl": "http://wave.webaim.org/report?url=https://gandi.net"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 9
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 5
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 16
+            },
+            "feature": {
+                "description": "Features",
+                "count": 18
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 107
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 113
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Google Drive: Share Files Online with Secure Cloud Storage | Google Workspace",
+            "pageurl": "https://drive.google.com",
+            "time": 4.87,
+            "creditsremaining": 25,
+            "allitemcount": 266,
+            "totalelements": 2246,
+            "waveurl": "http://wave.webaim.org/report?url=https://drive.google.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 1
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 0
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 9
+            },
+            "feature": {
+                "description": "Features",
+                "count": 83
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 53
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 120
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Login | Microsoft 365",
+            "pageurl": "https://officeapps.live.com",
+            "time": 2.93,
+            "creditsremaining": 24,
+            "allitemcount": 290,
+            "totalelements": 983,
+            "waveurl": "http://wave.webaim.org/report?url=https://officeapps.live.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 1
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 0
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 3
+            },
+            "feature": {
+                "description": "Features",
+                "count": 29
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 61
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 196
+            }
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://ytimg.com"
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Mozilla - Internet for people, not profit (US)",
+            "pageurl": "https://mozilla.org",
+            "time": 2.43,
+            "creditsremaining": 23,
+            "allitemcount": 229,
+            "totalelements": 1098,
+            "waveurl": "http://wave.webaim.org/report?url=https://mozilla.org"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 1
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 0
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 12
+            },
+            "feature": {
+                "description": "Features",
+                "count": 125
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 69
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 22
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "X. It’s what’s happening / X",
+            "pageurl": "https://x.com",
+            "time": 4.12,
+            "creditsremaining": 22,
+            "allitemcount": 32,
+            "totalelements": 177,
+            "waveurl": "http://wave.webaim.org/report?url=https://x.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 0
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 1
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 2
+            },
+            "feature": {
+                "description": "Features",
+                "count": 1
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 3
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 25
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "One platform to connect | Zoom",
+            "pageurl": "https://zoom.us",
+            "time": 6.23,
+            "creditsremaining": 21,
+            "allitemcount": 563,
+            "totalelements": 1964,
+            "waveurl": "http://wave.webaim.org/report?url=https://zoom.us"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 4
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 6
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 125
+            },
+            "feature": {
+                "description": "Features",
+                "count": 81
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 107
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 240
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Google Workspace Updates: New community features for Google Chat and an update on Currents",
+            "pageurl": "https://plus.google.com",
+            "time": 2.42,
+            "creditsremaining": 20,
+            "allitemcount": 328,
+            "totalelements": 1948,
+            "waveurl": "http://wave.webaim.org/report?url=https://plus.google.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 12
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 30
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 15
+            },
+            "feature": {
+                "description": "Features",
+                "count": 7
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 261
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 3
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Blogger.com - Create a unique and beautiful blog easily.",
+            "pageurl": "https://blogspot.com",
+            "time": 2.22,
+            "creditsremaining": 19,
+            "allitemcount": 83,
+            "totalelements": 290,
+            "waveurl": "http://wave.webaim.org/report?url=https://blogspot.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 1
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 7
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 10
+            },
+            "feature": {
+                "description": "Features",
+                "count": 40
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 17
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 8
+            }
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://cdninstagram.com"
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Opera Web Browser | Faster, Safer, Smarter | Opera",
+            "pageurl": "https://opera.com",
+            "time": 3.63,
+            "creditsremaining": 18,
+            "allitemcount": 132,
+            "totalelements": 715,
+            "waveurl": "http://wave.webaim.org/report?url=https://opera.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 4
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 20
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 14
+            },
+            "feature": {
+                "description": "Features",
+                "count": 49
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 38
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 7
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Video Platform Features",
+            "pageurl": "https://player.vimeo.com",
+            "time": 6.44,
+            "creditsremaining": 17,
+            "allitemcount": 281,
+            "totalelements": 1468,
+            "waveurl": "http://wave.webaim.org/report?url=https://player.vimeo.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 47
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 1
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 58
+            },
+            "feature": {
+                "description": "Features",
+                "count": 9
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 69
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 97
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "1.1.1.1 — One of the Internet’s Fastest, Privacy-First DNS Resolver",
+            "pageurl": "https://cloudflare-dns.com",
+            "time": 2.92,
+            "creditsremaining": 16,
+            "allitemcount": 63,
+            "totalelements": 1112,
+            "waveurl": "http://wave.webaim.org/report?url=https://cloudflare-dns.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 6
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 6
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 1
+            },
+            "feature": {
+                "description": "Features",
+                "count": 1
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 23
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 26
+            }
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://edgekey.net"
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "",
+            "pageurl": "https://reddit.com",
+            "time": 2.03,
+            "creditsremaining": 15,
+            "allitemcount": 5,
+            "totalelements": 23,
+            "waveurl": "http://wave.webaim.org/report?url=https://reddit.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 3
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 0
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 2
+            },
+            "feature": {
+                "description": "Features",
+                "count": 0
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 0
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 0
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "",
+            "pageurl": "https://unity3d.com",
+            "time": 2.72,
+            "creditsremaining": 14,
+            "allitemcount": 5,
+            "totalelements": 80,
+            "waveurl": "http://wave.webaim.org/report?url=https://unity3d.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 2
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 0
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 2
+            },
+            "feature": {
+                "description": "Features",
+                "count": 0
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 1
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 0
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Samsung US | Mobile | TV | Home Electronics | Home Appliances | Samsung US",
+            "pageurl": "https://samsung.com",
+            "time": 34.01,
+            "creditsremaining": 13,
+            "allitemcount": 2716,
+            "totalelements": 6760,
+            "waveurl": "http://wave.webaim.org/report?url=https://samsung.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 3
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 43
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 100
+            },
+            "feature": {
+                "description": "Features",
+                "count": 262
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 188
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 2120
+            }
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://tiktokcdn-eu.com"
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "百度一下，你就知道",
+            "pageurl": "https://baidu.com",
+            "time": 8.57,
+            "creditsremaining": 12,
+            "allitemcount": 65,
+            "totalelements": 449,
+            "waveurl": "http://wave.webaim.org/report?url=https://baidu.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 24
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 26
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 9
+            },
+            "feature": {
+                "description": "Features",
+                "count": 3
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 2
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 1
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "",
+            "pageurl": "https://mobile.events.data.microsoft.com",
+            "time": 1.92,
+            "creditsremaining": 11,
+            "allitemcount": 4,
+            "totalelements": 4,
+            "waveurl": "http://wave.webaim.org/report?url=https://mobile.events.data.microsoft.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 2
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 0
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 2
+            },
+            "feature": {
+                "description": "Features",
+                "count": 0
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 0
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 0
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "МТС - связь и экосистема цифровых сервисов - Частным клиентам | Официальный сайт МТС - Москва и Московская область",
+            "pageurl": "https://mts.ru",
+            "time": 8.04,
+            "creditsremaining": 10,
+            "allitemcount": 271,
+            "totalelements": 1543,
+            "waveurl": "http://wave.webaim.org/report?url=https://mts.ru"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 35
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 61
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 38
+            },
+            "feature": {
+                "description": "Features",
+                "count": 89
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 11
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 37
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Error 404 (Not Found)!!1",
+            "pageurl": "https://googleadservices.com",
+            "time": 1.72,
+            "creditsremaining": 9,
+            "allitemcount": 7,
+            "totalelements": 16,
+            "waveurl": "http://wave.webaim.org/report?url=https://googleadservices.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 1
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 2
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 2
+            },
+            "feature": {
+                "description": "Features",
+                "count": 1
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 0
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 1
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "404 - Not Found",
+            "pageurl": "https://ocsp.digicert.com",
+            "time": 1.72,
+            "creditsremaining": 8,
+            "allitemcount": 3,
+            "totalelements": 6,
+            "waveurl": "http://wave.webaim.org/report?url=https://ocsp.digicert.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 0
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 0
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 1
+            },
+            "feature": {
+                "description": "Features",
+                "count": 1
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 1
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 0
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "",
+            "pageurl": "https://edge.microsoft.com",
+            "time": 1.72,
+            "creditsremaining": 7,
+            "allitemcount": 4,
+            "totalelements": 5,
+            "waveurl": "http://wave.webaim.org/report?url=https://edge.microsoft.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 2
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 0
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 2
+            },
+            "feature": {
+                "description": "Features",
+                "count": 0
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 0
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 0
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Telekom | Mobilfunk, Festnetz & Internet, TV Angebote",
+            "pageurl": "https://telekom.de",
+            "time": 7.04,
+            "creditsremaining": 6,
+            "allitemcount": 446,
+            "totalelements": 1139,
+            "waveurl": "http://wave.webaim.org/report?url=https://telekom.de"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 5
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 34
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 87
+            },
+            "feature": {
+                "description": "Features",
+                "count": 57
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 51
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 212
+            }
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://a2z.com"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://wac-msedge.net"
+        }
+    }
+]

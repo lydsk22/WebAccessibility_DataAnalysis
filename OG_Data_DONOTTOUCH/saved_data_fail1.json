@@ -1,0 +1,170 @@
+[
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://root-servers.net"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_CONNECTION_REFUSED at https://amazonaws.com"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_FAILED at https://youtube.com"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://data.microsoft.com"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://akamai.net"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://a-msedge.net"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://akamaiedge.net"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://tiktokcdn.com"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://windowsupdate.com"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://akadns.net"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://microsoftonline.com"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://gtld-servers.net"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://apple-dns.net"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://trafficmanager.net"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://office.net"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://l-msedge.net"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_FAILED at https://youtu.be"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://aaplimg.com"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://e2ro.com"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://t-msedge.net"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "Error: Evaluation failed: ReferenceError: wave is not defined\n    at __puppeteer_evaluation_script__:2:4"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://cloudfront.net"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://s-msedge.net"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://cdn77.org"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://gvt2.com"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://mp.microsoft.com"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://gvt1.com"
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://bytefcdn-oversea.com"
+        }
+    }
+]

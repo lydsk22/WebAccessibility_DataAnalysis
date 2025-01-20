@@ -1,0 +1,219 @@
+[
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Less social media. More Snapchat.",
+            "pageurl": "https://snapchat.com",
+            "time": 3.82,
+            "creditsremaining": 5,
+            "allitemcount": 198,
+            "totalelements": 615,
+            "waveurl": "http://wave.webaim.org/report?url=https://snapchat.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 2
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 2
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 71
+            },
+            "feature": {
+                "description": "Features",
+                "count": 2
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 31
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 90
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Open WhatsApp",
+            "pageurl": "https://api.whatsapp.com",
+            "time": 2.32,
+            "creditsremaining": 4,
+            "allitemcount": 70,
+            "totalelements": 739,
+            "waveurl": "http://wave.webaim.org/report?url=https://api.whatsapp.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 1
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 1
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 13
+            },
+            "feature": {
+                "description": "Features",
+                "count": 7
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 17
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 31
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Your gateway to the EU, News, Highlights | European Union",
+            "pageurl": "https://europa.eu",
+            "time": 3.62,
+            "creditsremaining": 3,
+            "allitemcount": 275,
+            "totalelements": 905,
+            "waveurl": "http://wave.webaim.org/report?url=https://europa.eu"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 0
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 0
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 30
+            },
+            "feature": {
+                "description": "Features",
+                "count": 40
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 31
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 174
+            }
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://upcbroadband.com"
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Google Help",
+            "pageurl": "https://googledomains.com",
+            "time": 3.14,
+            "creditsremaining": 2,
+            "allitemcount": 642,
+            "totalelements": 938,
+            "waveurl": "http://wave.webaim.org/report?url=https://googledomains.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 24
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 0
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 6
+            },
+            "feature": {
+                "description": "Features",
+                "count": 91
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 190
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 331
+            }
+        }
+    },
+    {
+        "status": {
+            "success": true,
+            "httpstatuscode": 200
+        },
+        "statistics": {
+            "pagetitle": "Privacy & Terms – Google",
+            "pageurl": "https://policies.google.com",
+            "time": 2.82,
+            "creditsremaining": 1,
+            "allitemcount": 59,
+            "totalelements": 292,
+            "waveurl": "http://wave.webaim.org/report?url=https://policies.google.com"
+        },
+        "categories": {
+            "error": {
+                "description": "Errors",
+                "count": 0
+            },
+            "contrast": {
+                "description": "Contrast Errors",
+                "count": 0
+            },
+            "alert": {
+                "description": "Alerts",
+                "count": 3
+            },
+            "feature": {
+                "description": "Features",
+                "count": 8
+            },
+            "structure": {
+                "description": "Structural Elements",
+                "count": 18
+            },
+            "aria": {
+                "description": "ARIA",
+                "count": 30
+            }
+        }
+    },
+    {
+        "status": {
+            "success": false,
+            "error": "net::ERR_NAME_NOT_RESOLVED at https://aiv-cdn.net"
+        }
+    }
+]
